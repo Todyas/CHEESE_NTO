@@ -1,4 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/data/
+/data/*
+model.pickle
+text_embedder
+submission.csv
+text_vectorizer.pickle
+__pycache__/
